@@ -1,8 +1,17 @@
 ---
 layout: blog
-title: Blog
-slug: /blog
+title: Study
+slug: /study
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+  공부를 시작하여 학원을다니고 현 근무시점까지 개인적인 공부 , 직무등의 이해 등 경험과 레퍼런스들을 쌓기위해서 에버노트라는 툴을이용하여 개인적으로 관리하고있습니다.
+  공유나 블로그 등의 목적이 아니 다소 정신이없고 정리가 부족한점 이해부탁드립니다.
+  <br><br>
+  올해의 목표로는 정보처리기사 / SQLP 자격증 취득 / docker 쿠버네티스 공부.
+  <br>
+  진행중인 강의및 공부는 SPIRNG 주니어 개발자 오답노트 / JAVA 자료구조및 알고리즘 강의수강중.
+  <br><br>
+  정리가 조금 잘 되어 있고 프로젝트 관련 이슈없을 내용정도로 노트북 공유 하여 링크 올리겠습니다. 
+  <br>
+  참조 부탁드립니다.
 <br />
