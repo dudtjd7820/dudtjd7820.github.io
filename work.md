@@ -33,13 +33,13 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description:  ( GAUS , JAVASCRIPT ,JAVA ) 환경 개발 지원 선박 , 항공 지도 WEB 개발. 실시간 스케줄정보화면 등등.
+    description:  ( GAUS , JAVASCRIPT ,JAVA ) 환경 개발 지원 선박 , 항공 지도 WEB 개발. 실시간 스케줄정보화면등.
 
   - title: SAP_PO 원플랫폼 <br> 2020-05 ~ 2021-11  / 판토스 파견업무
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: ( GAUS , JAVASCRIPT,JAVA ) ( end ) SAP 연동 TEST 환경 개발 , TEST 지원. NODE.server기반 자바 SAP 데이터통신
+    description: ( GAUS , JAVASCRIPT,JAVA ) ( end ) SAP 연동 TEST 환경 개발 , node.js 사용 자바 SAP 데이터통신 TEST 환경 개발
 
   - title: 동물의약품 도매상교육 시스템 <br> 2020-05 ~ 2021-11  / 판토스 파견업무
     image:
@@ -66,15 +66,15 @@ items:
 <br>
 여객시스템 바코드/QR 스케너 , 모바일 연동 탑승객 관리 체크
 <br>
-도매상 관리시스템 바코드 발행 및 바코드로 재고 관리 
+도매상 관리시스템 바코드 발행 및 바코드 로 재고 관리 
 <br>
-Spring Exption Resoleve 재정의 및 WEBHOOK 연동
+Spring Exception Resolver 재정의 및 WEBHOOK 연동
 <br>
 세틀 뱅크 API 연동 무통장 처리 데몬개발 
 <br>
 관세청 API (유니패스)  연동 BL 데이터 관리및 VIEW
 <br> 
-바로빌 API 연동 카드 승인 등 e-Hr 시스템 카도사용내역 등 연동
+바로빌 API 연동 카드 승인내역 e-Hr 시스템 카드 사용내역 등 연동
 <br>
 알리고 API 연동 카톡 , SMS 발송기능 개발등이있습니다.
 
