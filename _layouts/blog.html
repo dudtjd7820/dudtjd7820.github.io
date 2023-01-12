@@ -11,26 +11,26 @@
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
+          <img style="width: 400px;" src="http://dudtjd7820.github.io/assets/img/everNoteList.png" alt="website picture" class="profile-pic">
+
+
           <p class="blog-post-list">
-            {% for post in site.posts %}
-
-              {% if post.draft != true %}
-                <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
-                  {{ post.title }}
-                </a>
-                <br />
-
-              {% endif %}
-
-            {% endfor %}
+            <a target="_blank" href="https://www.evernote.com/pub/dudtjd7820/reactstudy" class="blog-post-title">EverNote 링크 -React_study
+            </a>
+            </a>
           </p>
+          <p class="blog-post-list">
+            <a target="_blank" href="https://www.evernote.com/pub/dudtjd7820/etcstudy" class="blog-post-title">EverNote 링크 - Etc_study
+            </a>
+          </p>
+
+
         </div>
       </div>
     </div>
 
-    {% include footer.html %}
+<!--     {% include footer.html %}
 
-    {% include foot.html %}
+    {% include foot.html %} -->
   </body>
 </html>
