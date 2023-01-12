@@ -1,13 +1,14 @@
 <header class="site-header">
   <div class="wrapper">
     <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
-      <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
+      {{ site.title }}
     </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon"></a>
 
       <div class="menu">
+        <!--       
         {% for page in site.header.pages %}
           {% if page.slug and page.slug != "" and page.slug != nil %}
             {% assign page_link = page.slug %}
@@ -19,6 +20,19 @@
             {{ page.name }}
           </a>
         {% endfor %}
+         -->
+
+         <a class="page-link" href="http://dudtjd7820.github.io/">
+            home
+          </a>
+
+         <a class="page-link" href="http://dudtjd7820.github.io/work">
+            work
+          </a>
+
+        <a class="page-link" href="http://dudtjd7820.github.io/blog">
+            Study
+          </a>
       </div>
     </nav>
   </div>
