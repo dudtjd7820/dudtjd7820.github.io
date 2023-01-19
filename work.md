@@ -6,7 +6,7 @@ items:
   - title: panstarcruise 예약시스템  <br> 2022.10 ~ ING
     image:
       src: /assets/img/work/water.png
-      alt: water
+      alt: sand
     description: 유지보수 , 운영 및 대마도 항로 추가개발 결제 모듈 개선 소스개선<br>
       php , mssql , javascript 팬스타 크루즈 온라인예약시스템
 
