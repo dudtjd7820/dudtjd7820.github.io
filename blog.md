@@ -9,6 +9,8 @@ slug: /study
   <br><br>
   올해의 목표로는 정보처리기사 / SQLP 자격증 취득 / docker 쿠버네티스 공부.
   <br>
+  근무중 목표로는 [kotlin + Spring Boot] 환경으로의 conversion
+  <br>
   진행중인 강의및 공부는 SPIRNG 주니어 개발자 오답노트 / JAVA 자료구조및 알고리즘 강의수강중.
   <br><br>
   정리가 조금 잘 되어 있고 프로젝트 관련 이슈없을 내용정도로 노트북 공유 하여 링크 올리겠습니다. 
