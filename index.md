@@ -12,17 +12,18 @@ profile_picture:
 <br><br>
 
 <br><br>
-이력과 Study 부분을 부족하지만 보강하여 작성했습니다.<br>
-조금 불편하시겠지만 공부했던것들은 이곳을
+이력과 개인공부등 Study 부분을 부족하지만 보강하여 작성했습니다.<br>
 <a class="page-link" href="http://dudtjd7820.github.io/blog">
             Study 링크입니다.
 </a>
 <br>
-
-현회사에서 진행사항들은 
+이력사항들은 이곳을 
 <a class="page-link" href="http://dudtjd7820.github.io/work">
             work 링크입니다.
-</a>참조 부탁드립니다.
+</a>
+<br>
+참조 부탁드립니다.
+  
 <br><br>
 
 <br><br>
