@@ -79,8 +79,7 @@ Spring Exception Resolver 재정의 및 WEBHOOK 연동
 알리고 API 연동 카톡 , SMS 발송기능
 <br>
 PG 연동 하이브리드 방식으로 개선 개발등이있습니다.
-
-<br><br> 
+<br>
 2023 년현재. 진행 
 <br>
 SVN -> GIT 이관작업 진행중. 
