@@ -85,7 +85,7 @@ PG 연동 하이브리드 방식으로 개선 개발등이있습니다.
 <br>
 SVN -> GIT 이관작업 진행중. 
 <br>
-apache sever 설치셋팅 / jenkins svn -> jenkins git 적용 및 study 진행중.
+sever 설치,설정 / jenkins svn -> jenkins git 적용 및 study 진행중.
 
 
 <br />
