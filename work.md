@@ -47,7 +47,7 @@ items:
       alt: sand
     description: react , Node , AWS 기반 도매상교육관리 시스템 유지보수 및 추가개발
 
-  - title: eCargo 화물 웹 부킹 시스템 <br> eCargoDain , eCargoHuadong , eCagoDalong , eCargoPjFerry <br> 2019.06(개발) , 2020.03(개발) , 2020.08(개발) , 2020.12(개발) ~ ING 유지보수
+  - title: eCargo 화물 웹 부킹 시스템 <br> eCargoDain , eCargoHuadong , eCagoDalong , eCargoPjFerry <br> 2019.06(개발) , 2020.03(개발) , 2020.08(개발) , 2020.12(개발)<br>~ 운영 및 유지보수
     image:
       src: /assets/img/work/sand.png
       alt: sand
