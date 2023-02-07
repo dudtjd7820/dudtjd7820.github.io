@@ -47,7 +47,7 @@ items:
       alt: sand
     description: react , Node , AWS 기반 도매상교육관리 시스템 유지보수 및 추가개발
 
-  - title: eCargo 화물 웹 부킹 시스템 <br> eCargoDain , eCargoHuadong , eCagoDalong , eCargoPjFerry <br> 2019.06개발 , 20.03개발 , 20.08개발 , 20.12개발 ~ ING 유지보수수 
+  - title: eCargo 화물 웹 부킹 시스템 <br> eCargoDain , eCargoHuadong , eCagoDalong , eCargoPjFerry <br> 2019.06(개발) , 2020.03(개발) , 2020.08(개발) , 2020.12(개발) ~ ING 유지보수
     image:
       src: /assets/img/work/sand.png
       alt: sand
@@ -56,9 +56,9 @@ items:
       개별 DB 와 개별 프로젝트로 구성. 각각 고객사 요청사항 별 conversion 
 ---
 
-간단하게 소개드리자면 현 근무하는회사는 SI 파견업무를 (LG CNS , 판토스) 주로하며 선사와의( 해상물류 , 홈페이지 , 여객시스템 , 기간계시스템연동 등등 ) 사업을 주로하는  본사 솔루션 사업을 키워가는 기업입니다. 
+간단하게 소개해 드리자면 현 근무하는 회사는 SI 파견업무를 (LG CNS, 판토스) 주로 하며 선사와의( 해상물류, 홈페이지, 여객 시스템 , 기간계시스템연동 등등 ) 사업을 주로하는 본사 솔루션 사업을 키워가는 기업입니다.
 
-저는 본사인원으로 근무하고 있으며 저의 role은 eCargo 솔루션 메인으로 eCargo( 해상물류 WEB Booking 시스템 ) 을 맞고 있으며 현재는 서브 개발자를 두고 여객 등 여러 프로그램 개발에 지원하고있습니다. 외 로는 도재학교인원 교육담당자로 교육진행 , 신입사원 본사 교육 등을 담당하여 진행 하고 있습니다.  
+저는 본사 인원으로 근무하고 있으며 저의 role은 eCargo 솔루션 메인으로 eCargo( 해상물류 WEB Booking 시스템 ) 을 맞고 있으며 현재는 서브 개발자를 두고 여객 등 여러 프로그램 개발에 지원하고 있습니다. 외로는 도재학교인원 교육담당자로 교육진행, 신입사원 본사 교육 등을 담당하여 진행하고 있습니다.
 
 
 근무중 기억나는 개발 , 개선사항 진행 으로는. 
