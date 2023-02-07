@@ -64,27 +64,27 @@ items:
 <br>
 근무중 기억나는 개발 , 개선사항 진행 으로는. 
 <br>
-여객시스템 바코드/QR 스케너 , 모바일 연동 탑승객 관리 체크
+- 여객시스템 바코드/QR 스케너 , 모바일 연동 탑승객 관리 체크
 <br>
-도매상 관리시스템 바코드 발행 및 바코드 로 재고 관리 
+- 도매상 관리시스템 바코드 발행 및 바코드 로 재고 관리 
 <br>
-Spring Exception Resolver 재정의 및 WEBHOOK 연동
+- Spring Exception Resolver 재정의 및 WEBHOOK 연동
 <br>
-세틀 뱅크 API 연동 무통장 처리 데몬개발 
+- 세틀 뱅크 API 연동 무통장 처리 데몬개발 
 <br>
-관세청 API (유니패스)  연동 BL 데이터 관리및 VIEW
+- 관세청 API (유니패스)  연동 BL 데이터 관리및 VIEW
 <br> 
-바로빌 API 연동 카드 승인내역 e-Hr 시스템 카드 사용내역 등 연동
+- 바로빌 API 연동 카드 승인내역 e-Hr 시스템 카드 사용내역 등 연동
 <br>
-알리고 API 연동 카톡 , SMS 발송기능
+- 알리고 API 연동 카톡 , SMS 발송기능
 <br>
-PG 연동 하이브리드 방식으로 개선 개발등이있습니다.
+- PG 연동 하이브리드 방식으로 개선 개발등이있습니다.
 <br>
 2023 년현재. 진행 
 <br>
-SVN -> GIT 이관작업 진행중. 
+- SVN -> GIT 이관작업 진행중. 
 <br>
-sever 설치,설정 / jenkins svn -> jenkins git 적용 및 study 진행중.
+- sever 설치,설정 / jenkins svn -> jenkins git 적용 및 study 진행중.
 
 
 <br />
