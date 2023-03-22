@@ -85,6 +85,12 @@ items:
  -. SVN -> GIT 이관작업 진행중. 
 <br>
  -. sever 설치,설정 / jenkins svn -> jenkins git 적용 및 study 진행중.
+ <br>
+ -. panstar 이관작업 지원. (홈페이지등 10개 프로젝트 ) 
+ <br>
+ -. 각각 서버의 프로젝트별 파일관리 -> 파일서버 -> 파일백업서버 ( FTP up , down load  ) 
+ <br>
+ -. 본사 구성원 변화로 eCargo(화물webBooking)안정화 시스템 인수인계 및 백업 포지션 , 여객시스템 main role 
 
 
 
