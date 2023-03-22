@@ -90,7 +90,7 @@ items:
  <br>
  -. 각각 서버의 프로젝트별 파일관리 -> 파일서버 -> 파일백업서버 ( FTP up , down load  ) 
  <br>
- -. 본사 구성원 변화로 eCargo(화물webBooking)안정화 시스템 인수인계 및 백업 포지션 , 여객시스템 main role 
+ -. 안정화 화물시스템 시스템 인수인계 및 백업 포지션 , 여객시스템 main role 
 
 
 
