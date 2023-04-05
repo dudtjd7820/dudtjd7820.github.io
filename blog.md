@@ -3,9 +3,6 @@ layout: blog
 title: Study
 slug: /study
 ---
-
-
-  <br>
   <br>2023년의 개인목표로는 정보처리기사 / SQLP 자격증 취득 / docker 쿠버네티스 공부.
   <br>근무중 목표로는 [kotlin + Spring Boot] 환경으로의 conversion , restAPi 구축 , svn -> git , 도커 및 쿠버네티스 환경 구축 검토 및 TEST 서버생성 구축
   <br>
