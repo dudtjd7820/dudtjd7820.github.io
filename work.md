@@ -3,9 +3,22 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: panstarcruise 예약시스템  <br> 2022.10 ~ ING
+  - title: Spirng Boot Api Mpls Telpate Project Study and 구축   <br> 2023.03 ~ ING
     image:
       src: /assets/img/work/water.png
+      alt: sand
+    description: Spring boot 기반 api server Tempalte 구축 + panstar Api server 구축  <br>
+    추후 cargo 등 타프로젝트의 api server conversion 을 위한 mpls api server teplate Project 
+      
+  - title: panstarcruise 이관작업  <br> 2023.01 ~ 2023.03
+    image:
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: VB 기반 레거시 시스템 외 web 이관 프로젝트 db object 권한 체계 적용 테이블별 권한 설정 <br>
+      쿼리 등 db 정보 오픈x 를 위한 view 처리 / 이관사 운영 , 개발 셋팅 지원
+  - title: panstarcruise 예약시스템  <br> 2022.10 ~ ING
+    image:
+      src: /assets/img/work/sand.png
       alt: sand
     description: 유지보수 , 운영 및 대마도 항로 추가개발 결제 모듈 개선 소스개선<br>
       php , mssql , javascript 팬스타 크루즈 온라인예약시스템
@@ -65,7 +78,7 @@ items:
 <br>
  -. 여객시스템 바코드/QR 스케너 , 모바일 연동 탑승객 관리 체크
 <br>
- -. 도매상 관리시스템 바코드 발행 및 바코드 로 재고 관리 
+ -. 도매상 관리시스템 바코드 발행 및 바코드 구현 + 재고 관리 
 <br>
  -. Spring Exception Resolver 재정의 및 WEBHOOK 연동
 <br>
@@ -82,15 +95,19 @@ items:
 
 2023 년현재. 진행 
 <br>
- -. SVN -> GIT 이관작업 진행중. 
+ -. SVN -> GIT 이관작업 진행중. / Done
 <br>
- -. sever 설치,설정 / jenkins svn -> jenkins git 적용 및 study 진행중.
- <br>
- -. panstar 이관작업 지원. (홈페이지등 10개 프로젝트 ) 
- <br>
- -. 각각 서버의 프로젝트별 파일관리 -> 파일서버 -> 파일백업서버 ( FTP up , down load  ) 
- <br>
- -. 안정화 화물시스템 시스템 인수인계 및 백업 포지션 , 여객시스템 main role 
+ -. 각각 서버의 프로젝트별 파일관리 -> 파일서버 -> 파일백업서버 ( FTP up , down load  ) / Done
+<br>
+ -. panstar 이관작업 지원. (홈페이지등 10개 프로젝트 ) / Done
+<br>
+ -. sever 설치,설정 / jenkins svn -> jenkins git 적용 및 study / Done
+<br>
+ -. 안정화 화물시스템 시스템 인수인계 및 백업 포지션 , 여객시스템 main role / Done
+<br>
+ -. spring boot 기반 api server Tempalte 구축 / ING
+<br>
+ -. Docker Compose 가용성 조사 및 TEST 구축  / TODO
 
 
 
