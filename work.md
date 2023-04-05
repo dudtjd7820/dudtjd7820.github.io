@@ -6,10 +6,9 @@ items:
   - title: Spirng Boot Api Mpls Telpate Project Study and 구축   <br> 2023.03 ~ ING
     image:
       src: /assets/img/work/water.png
-      alt: sand
-    description: Spring boot 기반 api server Tempalte 구축 , panstar Api server 구축  <br>
+      alt: water
+    description: Spring boot 기반 api server Tempalte 구축 , panstar Api server 구축 <br>
     추후 cargo 등 타프로젝트의 api server conversion 을 위한 mpls api server teplate Project 
-      
   - title: panstarcruise 이관작업  <br> 2023.01 ~ 2023.03
     image:
       src: /assets/img/work/sand.png
