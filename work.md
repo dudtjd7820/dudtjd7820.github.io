@@ -47,17 +47,17 @@ items:
       alt: sand
     description:  ( GAUS , JAVASCRIPT ,JAVA ) 환경 개발 지원 선박 , 항공 지도 WEB 개발. 실시간 스케줄정보화면등.
 
-  - title: SAP_PO 원플랫폼 <br> 2020-05 ~ 2021-11  / 판토스 파견업무
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: ( GAUS , JAVASCRIPT,JAVA ) ( end ) SAP 연동 TEST 환경 개발 , node.js 사용 자바 SAP 데이터통신 TEST 환경 개발
-
-  - title: 동물의약품 도매상교육 시스템 <br> 2020-05 ~ 2021-11  / 판토스 파견업무
+  - title: 동물의약품 도매상교육 시스템 <br> 2021-05 ~ 2021-11  / 판토스 파견업무
     image:
       src: /assets/img/work/sand.png
       alt: sand
     description: react , Node , AWS 기반 도매상교육관리 시스템 유지보수 및 추가개발
+    
+  - title: SAP_PO 원플랫폼 <br> 2021-03 ~ 2021-05  / 판토스 파견업무
+    image:
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: ( GAUS , JAVASCRIPT,JAVA ) ( end ) SAP 연동 TEST 환경 개발 , node.js 사용 자바 SAP 데이터통신 TEST 환경 개발
 
   - title: eCargo 화물 웹 부킹 시스템 <br> eCargoDain , eCargoHuadong , eCagoDalong , eCargoPjFerry <br> 2019.06(개발) , 2020.03(개발) , 2020.08(개발) , 2020.12(개발)<br>~ 운영 및 유지보수 ING
     image:
