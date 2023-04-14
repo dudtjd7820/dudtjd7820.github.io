@@ -15,7 +15,7 @@ items:
       alt: sand
     description: VB 기반 레거시 시스템 외 web 이관 프로젝트 db object 권한 체계 적용 테이블별 권한 설정 <br>
       쿼리 등 db 정보 오픈x 를 위한 view 처리 / 이관사 운영 , 개발 셋팅 지원
-  - title: panstarcruise 예약시스템  <br> 2022.10 ~ ING
+  - title: panstarcruise 예약시스템  <br> 2022.10 ~ 2023.01
     image:
       src: /assets/img/work/sand.png
       alt: sand
