@@ -14,7 +14,7 @@ profile_picture:
 지속해서 본인을 발전시켜 나가고, 되고 싶습니다. <br>
   
 <br>
-이력과 개인 공부 등 부분을 부족하지만 보강하여 작성했습니다.
+업무이력과 개인 공부 등 부분을 부족하지만 보강하여 작성했습니다.
 <a class="page-link" href="http://dudtjd7820.github.io/blog">Study 링크입니다.</a>
 <br>
 <a class="page-link" href="http://dudtjd7820.github.io/work"> Work 링크입니다.</a>
