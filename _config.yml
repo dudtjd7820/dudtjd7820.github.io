@@ -3,7 +3,7 @@
 
 title: KYS_Profile
 description: >- # this means to ignore newlines until "baseurl:"
-  KYS_Profile 욕심 많은 개발자 소개페이지
+  KYS_Profile 궁금증 많은 개발자 김영성입니다.
 baseurl: "/" # the subpath of the site
 url: "https://dudtjd7820.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
