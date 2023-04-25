@@ -40,7 +40,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: 의얌품 유통관리시스템 개발 (Spring , mssql , java) 유지보수 및 창고업무 추가 ( 추가개발 )
+    description: 의얌품 유통관리시스템 개발 (Spring , mysql , java) 유지보수 및 창고업무 추가 ( 추가개발 )
 
   - title: 해상,항공 비저빌리티 시스템 <br> 2021-11 ~ 2022-01  / 판토스 파견업무
     image:
