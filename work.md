@@ -3,12 +3,13 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: Spirng Boot Api Mpls Telpate Project Study and 구축   <br> 2023.03 ~ ING
+  - title: Spring Boot Api Mpls Telpate Project Study and 구축   <br> 2023.03 ~ ING
     image:
       src: /assets/img/work/water.png
       alt: sand
     description: Spring boot 기반 api server Tempalte 구축 , panstar Api server 구축 <br>
-      추후 cargo 등 타프로젝트의 api server conversion 을 위한 mpls api server teplate Project 
+      추후 cargo 등 타프로젝트의 api server conversion 을 위한 mpls api server teplate Project <br>
+      ( mybatis , jpa , jwt , swagger , jaypt )
   - title: panstarcruise 이관작업  <br> 2023.01 ~ 2023.03
     image:
       src: /assets/img/work/sand.png
@@ -39,7 +40,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: 의얌품 유통관리시스템 개발 ( java) 유지보수 및 창고업무 추가 ( 추가개발 )
+    description: 의얌품 유통관리시스템 개발 (Spring , mssql , java) 유지보수 및 창고업무 추가 ( 추가개발 )
 
   - title: 해상,항공 비저빌리티 시스템 <br> 2021-11 ~ 2022-01  / 판토스 파견업무
     image:
@@ -47,11 +48,11 @@ items:
       alt: sand
     description:  ( GAUS , JAVASCRIPT ,JAVA ) 환경 개발 지원 선박 , 항공 지도 WEB 개발. 실시간 스케줄정보화면등.
 
-  - title: 동물의약품 도매상교육 시스템 <br> 2021-05 ~ 2021-11  / 판토스 파견업무
+  - title: 동물의약품 도매상교육 시스템 <br> 2021-05 ~ 2021-11
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: react , Node , AWS 기반 도매상교육관리 시스템 유지보수 및 추가개발
+    description: React , Node , AWS 기반 도매상교육관리 시스템 유지보수 및 추가개발
     
   - title: SAP_PO 원플랫폼 <br> 2021-03 ~ 2021-05  / 판토스 파견업무
     image:
