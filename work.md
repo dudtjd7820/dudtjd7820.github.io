@@ -3,7 +3,7 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: Spring Boot Api Mpls Telpate Project Study and 구축   <br> 2023.03 ~ ING
+  - title: Spring Boot Api Mpls Telpate Project Study and 구축   <br> 2023.03 ~ 2023.05
     image:
       src: /assets/img/work/water.png
       alt: sand
@@ -68,8 +68,9 @@ items:
       본사 솔루션 신규개발 및 운영 <br>
       개별 DB 와 개별 프로젝트로 구성. 각각 고객사 요청사항 별 conversion 
 ---
-
-간단하게 소개해 드리자면 현 근무하는 회사는 SI 파견업무를 (LG CNS, 판토스) 주로 하며 선사와의( 해상물류, 홈페이지, 여객 시스템 , 기간 계 시스템 연동 등등 ) 사업을 주로 하는 본사 솔루션 사업을 하는 기업입니다.
+첫회사인 MPLS 는
+간단하게 소개해 드리자면  SI 파견업무를 (LG CNS, 판토스) 주로 하며 선사와의( 해상물류, 홈페이지, 여객 시스템 , 기간 계 시스템 연동 등등 ) 
+사업을 주로 하는 본사 솔루션 사업을 하는 기업입니다.
 
 저는 본사 인원으로 근무하고 있으며 저의 주요 업무는 eCargo 솔루션 메인으로 eCargo( 해상물류 WEB Booking 시스템 ) 을 맡아 선사별 프로젝트를 진행했습니다.
 최근에는 구성원의 화물 WebServer 관리를 지원하며 / 여객 시스템 주요 업무를 맡고 있습니다.
